@@ -17,12 +17,6 @@ N/A
 
 When you open the study guide, right click the page, and click "inspect" from the drop down menu. This will open the chromeDevTools side bar and from there you can access the course prompts from the "console"
 
-```md
-    ![alt text](assets/images/screenshot.png)
-    ```
-
-
-
 ## Credits
 
 N/A
